@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldLab</string>
+    <string name="input_title">Введите текст</string>
+    <string name="button_text">Отобразить</string>
+</resources>
